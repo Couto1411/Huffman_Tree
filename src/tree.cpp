@@ -72,7 +72,7 @@ void PrintTreeInOrderNivel(Tree **T){
 		printf("0");
 }
 
-// sda
+// Printando em largura, pai, todos os filhos, todos os netos...
 void PrintInRange(Tree **T){
 	queue<Tree*> tempFila;
 	Tree *temp;
