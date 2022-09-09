@@ -1,0 +1,2634 @@
+identidade
+4	0.0228571
+desaceleração
+6	0.0342857
+primordial
+1	0.00571429
+narcísico
+7	0.04
+físico
+8	0.0457143
+ígnea
+8	0.0457143
+constituição
+8	0.0457143
+renovação
+9	0.0514286
+heisenberg
+12	0.0685714
+repetição
+13	0.0742857
+metas
+15	0.0857143
+rasa
+15	0.0857143
+implausibilidade
+15	0.0857143
+cognitivo
+15	0.0857143
+aporia
+15	0.0857143
+heraclítico
+16	0.0914286
+rio
+16	0.0914286
+alteridade
+16	0.0914286
+conflitante
+16	0.0914286
+sociedade
+16	0.0914286
+indivíduo
+32	0.182857
+pré-genital
+17	0.0971429
+estágio
+17	0.0971429
+narcisismo
+9	0.0514286
+quântica
+17	0.0971429
+eventual
+17	0.0971429
+atualizar
+17	0.0971429
+referência
+17	0.0971429
+decorrente
+2	0.0114286
+recalcado
+18	0.102857
+constante
+18	0.102857
+véu
+18	0.102857
+forte
+4	0.0228571
+fálico
+13	0.0742857
+oral
+13	0.0742857
+sucessivo
+13	0.0742857
+fliess
+18	0.102857
+indiscernibilidade
+4	0.0228571
+dor
+19	0.108571
+contas
+10	0.0571429
+strawson
+10	0.0571429
+deixam
+19	0.108571
+falseabilidade
+19	0.108571
+mecanismo
+13	0.0742857
+confundir
+19	0.108571
+dias
+19	0.108571
+doutrina
+19	0.108571
+antropológicos
+19	0.108571
+entendimento
+34	0.194286
+não-filosófica
+19	0.108571
+massas
+13	0.0742857
+baseando
+19	0.108571
+redigiu
+19	0.108571
+wittgenstein
+95	0.542857
+negativos
+19	0.108571
+empregada
+19	0.108571
+positiva
+19	0.108571
+sistemático
+17	0.0971429
+ceticismo
+17	0.0971429
+realiza
+19	0.108571
+ímpeto
+19	0.108571
+imperativo
+19	0.108571
+socio-linguisticos
+19	0.108571
+constituinte
+16	0.0914286
+estado
+35	0.2
+ação
+19	0.108571
+limites
+19	0.108571
+undefineddos
+35	0.2
+objetivação
+20	0.114286
+extensionalidade
+18	0.102857
+r
+20	0.114286
+<->
+20	0.114286
+v
+20	0.114286
+~r
+20	0.114286
+>
+20	0.114286
+substrato
+8	0.0457143
+~q
+20	0.114286
+^
+20	0.114286
+elementares
+20	0.114286
+undefinedda
+68	0.388571
+gramaticalidade
+19	0.108571
+consideração
+19	0.108571
+romano
+38	0.217143
+direito
+19	0.108571
+analítico
+26	0.148571
+sustenta
+19	0.108571
+m.hess
+19	0.108571
+1844
+19	0.108571
+1843
+19	0.108571
+artigos
+19	0.108571
+russel
+19	0.108571
+seminal
+19	0.108571
+endo-referencial
+19	0.108571
+paradoxo
+19	0.108571
+ensinou
+19	0.108571
+pós-jungiana
+12	0.0685714
+dionisíaco
+19	0.108571
+grega
+19	0.108571
+velha
+19	0.108571
+atividades
+19	0.108571
+líquido
+11	0.0628571
+limita
+19	0.108571
+sofrimento
+19	0.108571
+natureza
+35	0.2
+solucionar
+19	0.108571
+fatos
+19	0.108571
+coisa-em-si
+19	0.108571
+interior
+19	0.108571
+destacou
+18	0.102857
+humano
+18	0.102857
+inerente
+18	0.102857
+vontade
+36	0.205714
+sartre
+19	0.108571
+aparelho
+19	0.108571
+noção
+19	0.108571
+emprega
+17	0.0971429
+costumes
+19	0.108571
+vai
+19	0.108571
+convincentemente
+19	0.108571
+demonstrou
+19	0.108571
+nominalistas
+19	0.108571
+quesões
+19	0.108571
+imparcial
+19	0.108571
+julgamento
+19	0.108571
+concordaram
+19	0.108571
+baudrillard
+19	0.108571
+isso
+19	0.108571
+conta
+19	0.108571
+possibilidades
+19	0.108571
+idênticos
+4	0.0228571
+ortodoxas
+19	0.108571
+subjetivas
+19	0.108571
+música
+19	0.108571
+cotidiana
+19	0.108571
+vantagens
+19	0.108571
+irrefutabilidade
+19	0.108571
+já
+39	0.222857
+subjetivação
+20	0.114286
+padronização
+19	0.108571
+significante
+12	0.0685714
+linguagem
+44	0.251429
+advertiu
+19	0.108571
+cabe
+19	0.108571
+praedicatum
+9	0.0514286
+sustentabilidade
+19	0.108571
+leva
+19	0.108571
+esquecer
+19	0.108571
+todavia
+38	0.217143
+não-cromática
+19	0.108571
+saber
+38	0.217143
+enfatizar
+19	0.108571
+esfera
+19	0.108571
+kantiana
+17	0.0971429
+estrutura
+32	0.182857
+tríptico
+19	0.108571
+efetuando
+19	0.108571
+conclusões
+19	0.108571
+previsão
+20	0.114286
+acarreta
+19	0.108571
+caos
+20	0.114286
+aspecto
+19	0.108571
+personagem
+14	0.08
+centrais
+19	0.108571
+instâncias
+34	0.194286
+tédio
+19	0.108571
+quando
+57	0.325714
+suspensão
+6	0.0342857
+percebemos
+19	0.108571
+descentralizadoras
+13	0.0742857
+racionalista
+19	0.108571
+segunda
+19	0.108571
+habitual
+19	0.108571
+particularmente
+19	0.108571
+juízo
+67	0.382857
+todo
+76	0.434286
+possíveis
+19	0.108571
+limitação
+28	0.16
+prospectos
+38	0.217143
+antropologia
+19	0.108571
+conteúdo
+19	0.108571
+primeira
+20	0.114286
+utilitarismo
+32	0.182857
+super-homem
+16	0.0914286
+undefineddas
+30	0.171429
+ponto
+57	0.325714
+vivo
+19	0.108571
+conhecimentos
+38	0.217143
+continuum
+19	0.108571
+experimentais
+19	0.108571
+abrangente
+18	0.102857
+distributiva
+19	0.108571
+coerência
+19	0.108571
+porém
+19	0.108571
+certamente
+17	0.0971429
+heinsenberg
+19	0.108571
+tendo
+38	0.217143
+levantamento
+20	0.114286
+fala
+13	0.0742857
+provou
+19	0.108571
+efetiva
+19	0.108571
+problema
+19	0.108571
+gostaria
+19	0.108571
+capaz
+17	0.0971429
+enquanto
+57	0.325714
+doxa
+19	0.108571
+primordialpossibilita
+2	0.0114286
+anaximandro
+19	0.108571
+und
+14	0.08
+estabelece
+19	0.108571
+três
+38	0.217143
+alcance
+19	0.108571
+zeit
+14	0.08
+refutação
+36	0.205714
+corresponder
+19	0.108571
+francês
+19	0.108571
+mostrou
+76	0.434286
+puro-devir
+21	0.12
+sociais
+38	0.217143
+sensibilia
+19	0.108571
+meio
+19	0.108571
+percebidos
+19	0.108571
+nietzsche
+53	0.302857
+sinais
+19	0.108571
+filosofias
+19	0.108571
+modificações
+19	0.108571
+metodologias
+32	0.182857
+monismo
+19	0.108571
+passar
+19	0.108571
+precisão
+19	0.108571
+univocidade
+6	0.0342857
+plano
+20	0.114286
+retrocedente
+19	0.108571
+enumeração
+13	0.0742857
+iluminados
+19	0.108571
+implica
+38	0.217143
+momentos
+19	0.108571
+não-sentidos
+19	0.108571
+questionar
+38	0.217143
+compendiar
+19	0.108571
+destes
+20	0.114286
+avança
+19	0.108571
+interdependência
+19	0.108571
+indiscerníveis
+23	0.131429
+confirmar
+19	0.108571
+adoção
+51	0.291429
+hilemórfico
+8	0.0457143
+assim
+94	0.537143
+razão
+53	0.302857
+utilizados
+19	0.108571
+conseguinte
+19	0.108571
+transcendência
+27	0.154286
+condições
+38	0.217143
+causa
+19	0.108571
+prazer
+19	0.108571
+virtualizada
+14	0.08
+demonstrar
+19	0.108571
+objetivos
+9	0.0514286
+avançado
+19	0.108571
+clara
+9	0.0514286
+métodos
+19	0.108571
+conceitos
+72	0.411429
+tecnológico
+19	0.108571
+desterritorializado
+19	0.108571
+avanço
+19	0.108571
+individualizantes
+15	0.0857143
+platônica
+38	0.217143
+pressuposição
+19	0.108571
+incentivo
+19	0.108571
+necessidades
+19	0.108571
+sócrates
+19	0.108571
+exigidas
+19	0.108571
+finalmente
+19	0.108571
+definições
+19	0.108571
+epistemológicas
+19	0.108571
+comprometimento
+38	0.217143
+unificou
+19	0.108571
+preferências
+17	0.0971429
+acompanhamento
+34	0.194286
+arte
+19	0.108571
+pro-lépsis
+19	0.108571
+inverso
+19	0.108571
+movimento
+57	0.325714
+empenho
+19	0.108571
+abordagem
+53	0.302857
+extra-mental
+19	0.108571
+compulsão
+13	0.0742857
+metapsicológico
+15	0.0857143
+retorno
+37	0.211429
+admissão
+38	0.217143
+reavaliação
+19	0.108571
+contêm
+19	0.108571
+mente
+19	0.108571
+preferenciais
+19	0.108571
+apresenta
+38	0.217143
+verdadeiramente
+19	0.108571
+temos
+19	0.108571
+desta
+38	0.217143
+analítica
+19	0.108571
+tal
+19	0.108571
+pensando
+19	0.108571
+limiar
+6	0.0342857
+silogismo
+17	0.0971429
+irredutíveis
+15	0.0857143
+coordenadas
+28	0.16
+sujeito
+145	0.828571
+comércio
+19	0.108571
+demonstram
+19	0.108571
+série
+19	0.108571
+múltiplas
+19	0.108571
+potência
+37	0.211429
+acabei
+57	0.325714
+idéias
+19	0.108571
+experiências
+19	0.108571
+parcela
+19	0.108571
+proliferações
+19	0.108571
+constitui
+19	0.108571
+segundo
+114	0.651429
+desafia
+19	0.108571
+consistiria
+57	0.325714
+modo
+129	0.737143
+território
+19	0.108571
+pura
+38	0.217143
+correntes
+19	0.108571
+filósofo
+57	0.325714
+tem
+37	0.211429
+verificação
+19	0.108571
+pro
+19	0.108571
+indeterminação
+14	0.08
+conclusiva
+19	0.108571
+vislumbrar
+19	0.108571
+cogito
+19	0.108571
+conceitual
+23	0.131429
+considerações
+38	0.217143
+antropomórfica
+19	0.108571
+uno
+6	0.0342857
+dificuldades
+13	0.0742857
+terra
+19	0.108571
+levantam
+19	0.108571
+schopenhauer
+56	0.32
+sob
+55	0.314286
+informações
+19	0.108571
+todos
+38	0.217143
+sociológica
+18	0.102857
+estabelecimento
+38	0.217143
+valor
+32	0.182857
+agrega
+18	0.102857
+indeterminado
+13	0.0742857
+finito
+13	0.0742857
+inter-independência
+20	0.114286
+minimalista
+19	0.108571
+conjuntura
+19	0.108571
+afecções
+37	0.211429
+privada
+19	0.108571
+melhoria
+38	0.217143
+sofismas
+19	0.108571
+quanto
+95	0.542857
+histórico-social
+19	0.108571
+rede
+19	0.108571
+envolvidas
+20	0.114286
+invalidez
+19	0.108571
+normativas
+19	0.108571
+mídia
+19	0.108571
+lidar
+19	0.108571
+universalidade
+5	0.0285714
+necessária
+75	0.428571
+dialético
+19	0.108571
+numerosos
+19	0.108571
+sistematiza
+38	0.217143
+demais
+20	0.114286
+demônio
+19	0.108571
+participar
+19	0.108571
+desafiador
+18	0.102857
+demonstra
+57	0.325714
+melhor
+57	0.325714
+modelo
+42	0.24
+parece
+57	0.325714
+agenciamento
+19	0.108571
+media
+19	0.108571
+formação
+34	0.194286
+uso
+12	0.0685714
+estimula
+19	0.108571
+arrythmiston
+19	0.108571
+sensoriais
+19	0.108571
+poder
+76	0.434286
+percepção
+13	0.0742857
+obscuros
+19	0.108571
+potencializa
+19	0.108571
+tornado
+11	0.0628571
+levar
+19	0.108571
+grupo
+19	0.108571
+metafórico
+12	0.0685714
+nietzscheano
+19	0.108571
+final
+10	0.0571429
+outra
+19	0.108571
+teórico
+38	0.217143
+ontologicamente
+19	0.108571
+fundamentais
+38	0.217143
+provar
+19	0.108571
+questões
+55	0.314286
+rhytmos
+19	0.108571
+revolução
+37	0.211429
+cuidado
+19	0.108571
+mundo
+134	0.765714
+bipolaridade
+13	0.0742857
+afeta
+20	0.114286
+eloquentemente
+19	0.108571
+boécio
+19	0.108571
+peirceanos
+19	0.108571
+liberalismo
+19	0.108571
+surgimento
+34	0.194286
+transcendentais
+19	0.108571
+determinação
+85	0.485714
+estruturas
+64	0.365714
+consumada
+19	0.108571
+espaço-temporais
+13	0.0742857
+substitucional
+14	0.08
+conceito
+61	0.348571
+reduz
+19	0.108571
+pensamento
+115	0.657143
+sein
+14	0.08
+vez
+39	0.222857
+anglo-saxônica
+19	0.108571
+subterrâneas
+19	0.108571
+geral
+72	0.411429
+os
+107	0.611429
+objetos
+57	0.325714
+críticos
+19	0.108571
+ontologia
+19	0.108571
+deleuze
+38	0.217143
+análoga
+19	0.108571
+hegel
+19	0.108571
+lembrar
+20	0.114286
+fatores
+18	0.102857
+discursivas
+20	0.114286
+prática
+32	0.182857
+homérica
+19	0.108571
+confuso
+19	0.108571
+dúvidas
+38	0.217143
+essa
+57	0.325714
+lugar
+19	0.108571
+vivências
+19	0.108571
+fórmula
+19	0.108571
+ressonância
+19	0.108571
+prova
+38	0.217143
+institui
+19	0.108571
+importante
+57	0.325714
+internet
+10	0.0571429
+empírico
+19	0.108571
+oferece
+19	0.108571
+ensinamentos
+19	0.108571
+lícito
+38	0.217143
+relevantes
+17	0.0971429
+tempo
+38	0.217143
+categorias
+19	0.108571
+proposição
+19	0.108571
+contra
+19	0.108571
+último
+19	0.108571
+repouso-movimento
+13	0.0742857
+ou
+68	0.388571
+progresso
+19	0.108571
+atividade
+15	0.0857143
+manutenção
+19	0.108571
+funciona
+38	0.217143
+degradação
+19	0.108571
+bem-viver
+13	0.0742857
+espírito
+56	0.32
+fundamentação
+19	0.108571
+heterogêneas
+15	0.0857143
+modernização
+19	0.108571
+abstrato
+19	0.108571
+preparação
+19	0.108571
+mesmo
+57	0.325714
+teologia
+38	0.217143
+nossas
+19	0.108571
+testes
+19	0.108571
+ente
+14	0.08
+dialética
+19	0.108571
+auxiliam
+19	0.108571
+reflexionante
+10	0.0571429
+início
+34	0.194286
+científicas
+19	0.108571
+desconstrução
+39	0.222857
+componentes
+19	0.108571
+global
+19	0.108571
+ciência
+19	0.108571
+aparência
+19	0.108571
+the
+19	0.108571
+pólis
+16	0.0914286
+pretendo
+19	0.108571
+primeiro
+76	0.434286
+proposições
+20	0.114286
+vem
+19	0.108571
+fenomênico
+38	0.217143
+dissociar
+19	0.108571
+modalidades
+19	0.108571
+sobre
+114	0.651429
+reterritorializada
+12	0.0685714
+interioridade
+19	0.108571
+filosóficos
+31	0.177143
+período
+19	0.108571
+única
+15	0.0857143
+entre
+127	0.725714
+intersubjetivação
+19	0.108571
+afirmação
+19	0.108571
+subjetivos
+18	0.102857
+proposta
+57	0.325714
+desenvolvimento
+14	0.08
+psicossociais
+15	0.0857143
+conceituais
+77	0.44
+geração
+15	0.0857143
+reflexão
+19	0.108571
+estivesse
+19	0.108571
+existem
+57	0.325714
+esquematismo
+19	0.108571
+regras
+19	0.108571
+alternativas
+19	0.108571
+retroações
+19	0.108571
+formas
+14	0.08
+hierarquias
+20	0.114286
+contrário
+19	0.108571
+crença
+19	0.108571
+coexistem
+19	0.108571
+decorrentes
+57	0.325714
+funcionais
+19	0.108571
+neste
+76	0.434286
+representações
+19	0.108571
+antinomia
+19	0.108571
+globalizado
+18	0.102857
+caverna
+19	0.108571
+repressivo
+38	0.217143
+conexões
+19	0.108571
+estudos
+18	0.102857
+divergentes
+19	0.108571
+prazo
+38	0.217143
+enunciativo
+19	0.108571
+para
+152	0.868571
+restringir
+38	0.217143
+dessa
+57	0.325714
+não-ser
+32	0.182857
+respeito
+89	0.508571
+quadros
+38	0.217143
+destas
+17	0.0971429
+primordialtem
+1	0.00571429
+conhecimento
+38	0.217143
+relevância
+69	0.394286
+obstaculiza
+38	0.217143
+forma
+84	0.48
+efetuados
+18	0.102857
+consequências
+57	0.325714
+incógnitas
+19	0.108571
+preconizado
+14	0.08
+aqui
+14	0.08
+radical
+19	0.108571
+terceira
+19	0.108571
+ontologias
+19	0.108571
+subconjunto
+19	0.108571
+variáveis
+20	0.114286
+semântica
+13	0.0742857
+proaíresis
+19	0.108571
+às
+95	0.542857
+advento
+19	0.108571
+entanto
+19	0.108571
+su-jeito
+13	0.0742857
+verticais
+20	0.114286
+argumentar
+38	0.217143
+interiorização
+19	0.108571
+peso
+20	0.114286
+aprovar
+19	0.108571
+consciência
+14	0.08
+pontos
+57	0.325714
+fractalizações
+19	0.108571
+lógico
+52	0.297143
+composição
+19	0.108571
+maneira
+95	0.542857
+mas
+96	0.548571
+efetua
+18	0.102857
+epistemologia
+19	0.108571
+coisas
+19	0.108571
+vulgo
+19	0.108571
+obriga
+38	0.217143
+famigerada
+19	0.108571
+experimentação
+38	0.217143
+empregados
+19	0.108571
+heterogêneo
+19	0.108571
+consolidação
+25	0.142857
+diáthesis
+19	0.108571
+devido
+19	0.108571
+relatividade
+19	0.108571
+intuição
+39	0.222857
+identificar
+19	0.108571
+singular
+16	0.0914286
+copernicana
+18	0.102857
+undefineddo
+58	0.331429
+resoluta
+13	0.0742857
+complexidade
+18	0.102857
+lógico-estruturais
+19	0.108571
+experiência
+46	0.262857
+demonstraria
+19	0.108571
+propostas
+34	0.194286
+trancendental
+19	0.108571
+autoridade
+38	0.217143
+seguindo
+19	0.108571
+faz
+38	0.217143
+apreciação
+19	0.108571
+impenetrável
+19	0.108571
+sistemas
+34	0.194286
+capacidade
+19	0.108571
+substância
+63	0.36
+sempre
+19	0.108571
+presença
+19	0.108571
+significativa
+19	0.108571
+undefinedde
+18	0.102857
+origem
+51	0.291429
+psico-lógicas
+7	0.04
+bases
+26	0.148571
+diversidade
+15	0.0857143
+heidegger
+76	0.434286
+transcendente
+39	0.222857
+estruturalista
+14	0.08
+abandono
+19	0.108571
+cada
+19	0.108571
+processo
+57	0.325714
+amigos
+19	0.108571
+corresponde
+38	0.217143
+infinita
+34	0.194286
+objeto
+33	0.188571
+direções
+38	0.217143
+virtualização
+32	0.182857
+aparição
+19	0.108571
+estratégia
+19	0.108571
+primordialefetua
+1	0.00571429
+está
+39	0.222857
+convencionais
+19	0.108571
+contemplação
+19	0.108571
+oportunidade
+19	0.108571
+in
+19	0.108571
+condicionante
+19	0.108571
+crescente
+19	0.108571
+condição
+134	0.765714
+quantificadores
+14	0.08
+corrobora
+19	0.108571
+acontecimento
+19	0.108571
+papel
+20	0.114286
+formulação
+20	0.114286
+impulsos
+15	0.0857143
+aristotélica
+51	0.291429
+caminho
+19	0.108571
+meios
+38	0.217143
+extremos
+19	0.108571
+soluções
+19	0.108571
+subjetivista
+38	0.217143
+consequência
+34	0.194286
+caros
+19	0.108571
+procedimentos
+19	0.108571
+kant
+51	0.291429
+sensível
+38	0.217143
+laplace
+19	0.108571
+algumas
+19	0.108571
+sistema
+115	0.657143
+intelectuais
+19	0.108571
+devidamente
+19	0.108571
+realidade
+91	0.52
+qual
+57	0.325714
+há
+19	0.108571
+contemporâneas
+19	0.108571
+perspectiva
+74	0.422857
+filósofos
+19	0.108571
+mundiais
+9	0.0514286
+relacionamentos
+20	0.114286
+revolucionária
+19	0.108571
+nunca
+20	0.114286
+labirinto
+19	0.108571
+nada
+70	0.4
+produzir
+19	0.108571
+fenômenos
+19	0.108571
+objetivo
+19	0.108571
+pelo
+38	0.217143
+fundamental
+19	0.108571
+posturas
+19	0.108571
+implacável
+19	0.108571
+independentemente
+19	0.108571
+talvez
+19	0.108571
+analisar
+19	0.108571
+diria
+38	0.217143
+composta
+19	0.108571
+intenção
+19	0.108571
+atípicas
+19	0.108571
+übermensch
+16	0.0914286
+foucault
+57	0.325714
+deve-se
+38	0.217143
+contribuição
+19	0.108571
+água
+12	0.0685714
+duas
+19	0.108571
+substancialidade
+19	0.108571
+afirmou
+19	0.108571
+epistemológica
+19	0.108571
+extremo
+19	0.108571
+deverá
+19	0.108571
+reestruturação
+19	0.108571
+povoado
+19	0.108571
+turbulência
+19	0.108571
+busca
+38	0.217143
+membro
+19	0.108571
+político
+36	0.205714
+entendidos
+19	0.108571
+mito
+15	0.0857143
+certezas
+19	0.108571
+importância
+76	0.434286
+expansão
+9	0.0514286
+necessidade
+9	0.0514286
+mercados
+9	0.0514286
+supra-celeste
+9	0.0514286
+aporético
+6	0.0342857
+comunicação
+38	0.217143
+extrema
+19	0.108571
+seus
+19	0.108571
+auxilia
+19	0.108571
+considerar
+19	0.108571
+canalizaçao
+14	0.08
+mais
+133	0.76
+pode
+95	0.542857
+mudança
+19	0.108571
+posições
+19	0.108571
+virtual
+93	0.531429
+tendências
+38	0.217143
+setores
+12	0.0685714
+humanização
+19	0.108571
+inicial
+19	0.108571
+justificaria
+38	0.217143
+modos
+19	0.108571
+correta
+20	0.114286
+abertura
+19	0.108571
+esperado
+19	0.108571
+pulsão
+19	0.108571
+influência
+56	0.32
+instauração
+6	0.0342857
+cidadania
+19	0.108571
+metapsicológica
+19	0.108571
+posição
+19	0.108571
+obstante
+19	0.108571
+promove
+19	0.108571
+utilidade
+13	0.0742857
+imanente
+104	0.594286
+infinito
+82	0.468571
+prossentença
+19	0.108571
+podemos
+57	0.325714
+histórico
+8	0.0457143
+suas
+76	0.434286
+valorização
+18	0.102857
+teorias
+38	0.217143
+não-sábios
+19	0.108571
+cumpre
+20	0.114286
+ponderadas
+19	0.108571
+vivemos
+11	0.0628571
+ordenando
+19	0.108571
+análise
+76	0.434286
+importantes
+19	0.108571
+investigações
+38	0.217143
+aumento
+12	0.0685714
+diferentes
+12	0.0685714
+subjectu
+9	0.0514286
+significado
+51	0.291429
+pintor
+19	0.108571
+envolvido
+16	0.0914286
+venha
+19	0.108571
+impacto
+19	0.108571
+fundida
+19	0.108571
+ressaltar
+38	0.217143
+animal
+12	0.0685714
+arrasta
+19	0.108571
+primordialagrega
+1	0.00571429
+incompatibilidade
+19	0.108571
+ambiente
+17	0.0971429
+grice
+19	0.108571
+envolvidos
+38	0.217143
+contínua
+14	0.08
+metafísica
+77	0.44
+recorre
+19	0.108571
+atual
+51	0.291429
+religioso
+19	0.108571
+apeiron
+19	0.108571
+entendida
+37	0.211429
+eidética
+5	0.0285714
+universos
+19	0.108571
+espelhados
+19	0.108571
+som
+19	0.108571
+expressionismo
+19	0.108571
+estética
+19	0.108571
+filosófico
+19	0.108571
+paradigmas
+19	0.108571
+aberto
+19	0.108571
+este
+58	0.331429
+fuzzy
+19	0.108571
+vinculado
+20	0.114286
+conexão
+19	0.108571
+entscholossenheit
+13	0.0742857
+uno-múltiplo
+13	0.0742857
+seja
+16	0.0914286
+diálogo
+12	0.0685714
+existência
+57	0.325714
+positivamente
+20	0.114286
+pois
+77	0.44
+não-quantificado
+14	0.08
+fluxo
+57	0.325714
+quiçá
+20	0.114286
+cognitivas
+19	0.108571
+fraturada
+19	0.108571
+interpretação
+71	0.405714
+traz
+19	0.108571
+garante
+19	0.108571
+revolucionários
+19	0.108571
+interiores
+19	0.108571
+figuras
+19	0.108571
+reduziria
+19	0.108571
+fazemos
+19	0.108571
+empíricos
+19	0.108571
+imerso
+19	0.108571
+detrimento
+19	0.108571
+absconditum
+19	0.108571
+acumuladas
+19	0.108571
+admite
+19	0.108571
+intencionais
+19	0.108571
+definitiva
+38	0.217143
+corpo
+19	0.108571
+dizer
+38	0.217143
+ter
+19	0.108571
+ontológico
+23	0.131429
+calar
+19	0.108571
+éticas
+19	0.108571
+tudo
+39	0.222857
+incompletude
+37	0.211429
+maya
+18	0.102857
+aritmética
+19	0.108571
+voga
+19	0.108571
+suficientemente
+18	0.102857
+grego
+19	0.108571
+fundado
+19	0.108571
+questão
+38	0.217143
+baseado
+19	0.108571
+refutada
+19	0.108571
+tradição
+38	0.217143
+provocam
+19	0.108571
+monádico
+19	0.108571
+social
+69	0.394286
+sugerido
+19	0.108571
+expectativas
+19	0.108571
+acaso-caos
+19	0.108571
+lançado
+19	0.108571
+prepara-nos
+19	0.108571
+compromisso
+4	0.0228571
+universo
+19	0.108571
+envolve
+19	0.108571
+bachelard
+19	0.108571
+leibnizano
+4	0.0228571
+pressupõe
+19	0.108571
+fizera
+19	0.108571
+escolha
+7	0.04
+talesiana
+12	0.0685714
+axioma
+9	0.0514286
+antes
+19	0.108571
+feminino
+2	0.0114286
+deixemos
+19	0.108571
+inest
+9	0.0514286
+gênio
+19	0.108571
+apresentar
+19	0.108571
+homogenidade
+19	0.108571
+imaterialização
+19	0.108571
+aos
+73	0.417143
+convicções
+19	0.108571
+pós-moderna
+19	0.108571
+empiristas
+19	0.108571
+certificação
+19	0.108571
+próprio
+19	0.108571
+pré-hegelianas
+19	0.108571
+predicativas
+15	0.0857143
+aponta
+19	0.108571
+leitor
+38	0.217143
+reformulação
+19	0.108571
+invariantes
+38	0.217143
+visão
+38	0.217143
+ciências
+20	0.114286
+suficiente
+57	0.325714
+loco
+19	0.108571
+desterritorialização
+38	0.217143
+indiscernível
+19	0.108571
+publicados
+19	0.108571
+poderes
+25	0.142857
+facilita
+19	0.108571
+problemas
+20	0.114286
+poderia
+19	0.108571
+entretanto
+38	0.217143
+durante
+19	0.108571
+ética
+57	0.325714
+escola
+19	0.108571
+impulso
+19	0.108571
+francesa
+19	0.108571
+lógica
+76	0.434286
+psicologia
+19	0.108571
+racional
+57	0.325714
+inovadora
+19	0.108571
+cosmologia
+19	0.108571
+fim
+38	0.217143
+propriedade
+38	0.217143
+representa
+57	0.325714
+caracteriza
+19	0.108571
+apontado
+19	0.108571
+distintas
+14	0.08
+relativismo
+19	0.108571
+situação
+19	0.108571
+efeito
+38	0.217143
+hegemonia
+55	0.314286
+define
+20	0.114286
+novas
+19	0.108571
+nesses
+19	0.108571
+pesquisas
+19	0.108571
+partículas
+19	0.108571
+recursos
+19	0.108571
+princípio
+91	0.52
+espaço
+39	0.222857
+cantor
+19	0.108571
+coercitivo
+19	0.108571
+realismo
+19	0.108571
+ingênuo
+19	0.108571
+isto
+19	0.108571
+equivocada
+19	0.108571
+confiabilidade
+19	0.108571
+dados
+19	0.108571
+pela
+19	0.108571
+diversas
+19	0.108571
+fenomenal
+19	0.108571
+base
+19	0.108571
+argumentos
+38	0.217143
+permite
+38	0.217143
+amparados
+19	0.108571
+equalização
+19	0.108571
+impossibilita
+19	0.108571
+reabilitadoras
+19	0.108571
+normativa
+38	0.217143
+restringe
+19	0.108571
+status
+19	0.108571
+deontológica
+19	0.108571
+correlativamente
+19	0.108571
+engendrado
+11	0.0628571
+transmitidos
+19	0.108571
+essências
+19	0.108571
+conjunto
+19	0.108571
+teoria
+176	1.00571
+freud
+19	0.108571
+futuro
+19	0.108571
+mostra
+57	0.325714
+virtuoso
+19	0.108571
+ilusões
+19	0.108571
+epistêmica
+19	0.108571
+entendido
+50	0.285714
+anal
+13	0.0742857
+universal
+19	0.108571
+polêmico
+19	0.108571
+cuja
+19	0.108571
+consumo
+17	0.0971429
+anticristo
+19	0.108571
+objetiva
+19	0.108571
+antiplatonismo
+19	0.108571
+pró-dêiticos
+19	0.108571
+mentais
+17	0.0971429
+remanejamento
+19	0.108571
+teleológica
+19	0.108571
+provindos
+19	0.108571
+momento
+19	0.108571
+cálculo
+14	0.08
+resulta
+19	0.108571
+fichteano
+19	0.108571
+atribuições
+19	0.108571
+domínio
+17	0.0971429
+julgar
+19	0.108571
+resultante
+19	0.108571
+movimentos
+38	0.217143
+então
+19	0.108571
+premissas
+19	0.108571
+tona
+19	0.108571
+assertórica
+19	0.108571
+canônicas
+19	0.108571
+evidencia
+19	0.108571
+maximiza
+19	0.108571
+lógicos
+19	0.108571
+psique
+19	0.108571
+animalização
+19	0.108571
+cristianismo
+19	0.108571
+falar
+19	0.108571
+pareça
+20	0.114286
+universais
+19	0.108571
+indireto
+19	0.108571
+decisão
+13	0.0742857
+causalidade
+19	0.108571
+sintético
+38	0.217143
+transcendentes
+19	0.108571
+dogmática
+20	0.114286
+presentes
+38	0.217143
+dewey
+19	0.108571
+novo
+14	0.08
+obra
+38	0.217143
+condillac
+19	0.108571
+cenário
+18	0.102857
+numa
+57	0.325714
+palavra
+19	0.108571
+dasein
+11	0.0628571
+mutação
+12	0.0685714
+manifesto
+11	0.0628571
+estas
+38	0.217143
+implicações
+19	0.108571
+revela
+19	0.108571
+solipsismo
+19	0.108571
+cartesiano
+19	0.108571
+função
+57	0.325714
+criaria
+19	0.108571
+dialético-social
+19	0.108571
+demolir
+19	0.108571
+relativista
+19	0.108571
+literalidade
+19	0.108571
+texto
+19	0.108571
+condicionalizantes
+19	0.108571
+freudiana
+19	0.108571
+quo
+19	0.108571
+autor
+19	0.108571
+verifica
+19	0.108571
+validade
+19	0.108571
+fundo
+38	0.217143
+obstáculo
+15	0.0857143
+comum
+19	0.108571
+fenômeno
+37	0.211429
+quine
+19	0.108571
+interessante
+19	0.108571
+humanidade
+19	0.108571
+homem
+69	0.394286
+reciclagem
+19	0.108571
+embora
+19	0.108571
+tanto
+57	0.325714
+foucaultiana
+19	0.108571
+comportamento
+19	0.108571
+zenão
+19	0.108571
+chomskyana
+19	0.108571
+processos
+36	0.205714
+ricoeur
+19	0.108571
+considerados
+19	0.108571
+platônico
+29	0.165714
+conjuntos
+42	0.24
+conflito
+38	0.217143
+si
+19	0.108571
+descartes
+19	0.108571
+relação
+90	0.514286
+próprios
+19	0.108571
+tese
+38	0.217143
+determinar
+19	0.108571
+eliminabilidade
+19	0.108571
+ordem
+18	0.102857
+reabilita
+19	0.108571
+dualismo
+38	0.217143
+história
+19	0.108571
+filosofia
+19	0.108571
+atende
+19	0.108571
+criação
+46	0.262857
+continental
+19	0.108571
+impasse
+19	0.108571
+retroceder
+19	0.108571
+ulterior
+19	0.108571
+matéria
+38	0.217143
+torna
+19	0.108571
+designam
+19	0.108571
+pintura
+19	0.108571
+ato
+32	0.182857
+expressão
+30	0.171429
+imediata
+19	0.108571
+cartografia
+19	0.108571
+urbana
+19	0.108571
+ligações
+19	0.108571
+proposicional
+46	0.262857
+primeiramente
+38	0.217143
+baseando-se
+19	0.108571
+refutar
+19	0.108571
+objeto(recalcado
+14	0.08
+singularmente
+13	0.0742857
+compostas
+13	0.0742857
+essência
+19	0.108571
+opressor
+19	0.108571
+defasada
+38	0.217143
+proletariado
+19	0.108571
+deve
+77	0.44
+parte
+38	0.217143
+medieval
+19	0.108571
+tábula
+15	0.0857143
+redundância
+19	0.108571
+priori
+125	0.714286
+mostrar
+19	0.108571
+possível
+84	0.48
+efetuar
+19	0.108571
+rigor
+19	0.108571
+inconsciente
+32	0.182857
+subjetividade
+19	0.108571
+elementos
+56	0.32
+vertical
+19	0.108571
+deleuze/guatarri
+19	0.108571
+especificamente
+19	0.108571
+mistificação
+13	0.0742857
+investimento
+19	0.108571
+espinosista
+19	0.108571
+caso
+19	0.108571
+consiste
+19	0.108571
+lado
+19	0.108571
+alavancagem
+19	0.108571
+necessários
+19	0.108571
+relacionais
+19	0.108571
+bergson
+19	0.108571
+deus
+20	0.114286
+figurado
+19	0.108571
+ainda
+57	0.325714
+estende
+19	0.108571
+consciente
+19	0.108571
+trás
+19	0.108571
+redutibilidade
+19	0.108571
+dissimetria
+19	0.108571
+dois
+19	0.108571
+qualquer
+19	0.108571
+formalismo
+15	0.0857143
+submetivo
+16	0.0914286
+tipos
+19	0.108571
+fator
+19	0.108571
+polissemia
+19	0.108571
+política
+19	0.108571
+intrigantes
+19	0.108571
+hipótese
+19	0.108571
+fenomenológicas
+19	0.108571
+inalienável
+19	0.108571
+transposição
+19	0.108571
+inversão
+19	0.108571
+mecanicistas
+19	0.108571
+unidade
+19	0.108571
+p
+40	0.228571
+ideação
+13	0.0742857
+conceber
+19	0.108571
+visíveis
+19	0.108571
+princípios
+57	0.325714
+transcendental
+29	0.165714
+eterno
+9	0.0514286
+depreende-se
+19	0.108571
+esta
+19	0.108571
+alternâncias
+19	0.108571
+própria
+19	0.108571
+essencial
+20	0.114286
+relativa
+19	0.108571
+projeta
+19	0.108571
+sequência
+19	0.108571
+inacessibilidade
+17	0.0971429
+inconscientes
+17	0.0971429
+elucidação
+19	0.108571
+psíquico
+19	0.108571
+oposição
+19	0.108571
+fonte
+19	0.108571
+cujo
+19	0.108571
+toda
+39	0.222857
+satisfação
+47	0.268571
+acima
+58	0.331429
+muitas
+19	0.108571
+energeia
+13	0.0742857
+remete
+19	0.108571
+gradual
+19	0.108571
+ideológica
+19	0.108571
+constituída
+19	0.108571
+globalidade
+19	0.108571
+inegável
+19	0.108571
+escatológico
+15	0.0857143
+fedro
+15	0.0857143
+inferir
+19	0.108571
+polivalente
+19	0.108571
+particular
+19	0.108571
+volitivo
+10	0.0571429
+todas
+19	0.108571
+logic
+19	0.108571
+supõe
+19	0.108571
+pressuposto
+38	0.217143
+complexo
+21	0.12
+édipo
+21	0.12
+seu
+35	0.2
+ideal
+16	0.0914286
+desejo
+19	0.108571
+opinião
+19	0.108571
+interdito
+19	0.108571
+pode-se
+19	0.108571
+dissociação
+19	0.108571
+assume
+19	0.108571
+aplicada
+38	0.217143
+relações
+19	0.108571
+submissão
+19	0.108571
+sensação
+20	0.114286
+favorável
+19	0.108571
+reaprofundamento
+7	0.04
+inevitavelmente
+19	0.108571
+vida
+26	0.148571
+intencional
+7	0.04
+ora
+38	0.217143
+insuficiente
+19	0.108571
+sem
+19	0.108571
+real
+19	0.108571
+longo
+38	0.217143
+preconizada
+19	0.108571
+pós-modernidade
+19	0.108571
+era
+19	0.108571
+sua
+57	0.325714
+alma
+19	0.108571
+vista
+96	0.548571
+sustentar
+19	0.108571
+intencionalidade
+10	0.0571429
+tratar
+20	0.114286
+problemática
+19	0.108571
+sistematicamente
+20	0.114286
+monocromática
+19	0.108571
+levando
+19	0.108571
+sentido
+110	0.628571
+pós-moderno
+19	0.108571
+marca
+19	0.108571
+autonomia
+19	0.108571
+instituição
+19	0.108571
+hegeliana
+19	0.108571
+visando
+19	0.108571
+coletiva
+14	0.08
+exaustiva
+13	0.0742857
+pulsões
+25	0.142857
+atos
+13	0.0742857
+corrente
+38	0.217143
+cognitiva
+20	0.114286
+verdade
+39	0.222857
+corroborar
+19	0.108571
+espécie
+19	0.108571
+primordialemprega
+2	0.0114286
+introdução
+19	0.108571
+deste
+38	0.217143
+característico
+19	0.108571
+vertentes
+19	0.108571
+exige
+19	0.108571
+negaria
+19	0.108571
+atuais
+38	0.217143
+disfunção
+13	0.0742857
+definição
+38	0.217143
+resultou
+19	0.108571
+feminilidade
+7	0.04
+evidentemente
+19	0.108571
+hipotético
+17	0.0971429
+juízos
+17	0.0971429
+infinitos
+36	0.205714
+compromete
+19	0.108571
+paradoxos
+19	0.108571
+claro
+58	0.331429
+logicista
+19	0.108571
+sucinta
+19	0.108571
+husserl
+19	0.108571
+eminentemente
+19	0.108571
+possibilita
+55	0.314286
+velocidade
+19	0.108571
+antitética
+19	0.108571
+estéticas
+7	0.04
+recíproca
+19	0.108571
+reconhecer
+19	0.108571
+sujeitos
+19	0.108571
+mundos
+19	0.108571
+infinidade
+19	0.108571
+submetidos
+19	0.108571
+defende
+38	0.217143
+exercício
+19	0.108571
+cosmos
+16	0.0914286
+plausível
+11	0.0628571
+hybris-nêmesis
+19	0.108571
+conduta
+19	0.108571
+apreende
+19	0.108571
+valores
+19	0.108571
+poesia
+38	0.217143
+morais
+19	0.108571
+outro
+38	0.217143
+construção
+19	0.108571
+cooperação
+19	0.108571
+explicitaria
+19	0.108571
+transcendentalmente
+19	0.108571
+designa
+19	0.108571
+neoliberalismo
+19	0.108571
+impermeabilização
+19	0.108571
+nominalismo
+19	0.108571
+aparentemente
+11	0.0628571
+chamado
+19	0.108571
+irredutibilidade
+13	0.0742857
+subsidência
+19	0.108571
+abaixamento
+19	0.108571
+paralelamente
+19	0.108571
+sedimentação
+19	0.108571
+contratualistas
+19	0.108571
+materialização
+19	0.108571
+não-objetos
+19	0.108571
+empírica
+19	0.108571
+existencial
+19	0.108571
+aristotélicas
+19	0.108571
+pôr
+19	0.108571
+revelando
+19	0.108571
+eidos
+13	0.0742857
+nova
+19	0.108571
+observador
+19	0.108571
+ruptura
+56	0.32
+einstein
+19	0.108571
+contudo
+19	0.108571
+castração
+2	0.0114286
+medidas
+19	0.108571
+crítica
+19	0.108571
+dupla
+19	0.108571
+contundente
+19	0.108571
+libidinal
+28	0.16
+enfrentar
+19	0.108571
+spin
+19	0.108571
+situações
+19	0.108571
+permitiria
+19	0.108571
+pensamentos
+19	0.108571
+sensíveis
+19	0.108571
+sábios
+19	0.108571
