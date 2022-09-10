@@ -3,9 +3,9 @@ O problema possui quatro etapas: Ler um arquivo e contabilizar a recorrência da
 # Estrutura
 Para leitura do arquivo e normalização utilizamos uma hash, com a biblioteca <unordered_map> com lógica similar à [Open_Hash](https://github.com/Couto1411/Open_Hash), contendo os devidos ajustes para comportar as palavras, suas frequências e suas normalizações de recorrência, então usamos uma árvore derivada de [Tree](https://github.com/Couto1411/Tree_C) para armazenar a tradução das palavras utilizando o algoritmo de huffman e no fim utilizamos uma hash para achar as codificações de cada palavra e reescrever o arquivo.
 
-# Logica
+# Lógica
 
-O programa possui alguns métodos importantes: *preencheMap(string nomeArquivo)*, *normalize()*, *createTree(Tree \*\*T)**, *AlturaArvoreLargura(int *altura, Tree \*\*T)* e *writeFile(Tree \*\*T, string nomeArquivo)*.
+O programa possui alguns métodos importantes: *preencheMap(string nomeArquivo)*, *normalize()*, *createTree(Tree \*\*T)*, *AlturaArvoreLargura(int *altura, Tree \*\*T)* e *writeFile(Tree \*\*T, string nomeArquivo)*.
 1) *preencheMap(string nomeArquivo)*:      
 Este método é pertencente a uma classe Hash e é responsável por ler de um arquivo com o nome recebido contido na pasta "arquivos". Ele utiliza um tratamento de pontuação e deixa as palavras em minúsculo, então utiliza o unordered_map da classe para setar chaves referentes as palavras e adicionar à um contador presentes nas mesmas.
 
@@ -39,7 +39,6 @@ Nome do arquivo:
 >      
 > Caros amigos, a infinita diversidade da realidade única nos obriga à análise do demônio de Laplace. Por outro lado, a complexidade dos estudos efetuados cumpre um papel essencial na formulação da fundamentação metafísica das representações. Assim mesmo, a forma geral da proposição significativa deverá confirmar as consequências decorrentes do sistema de conhecimento geral.
 > Neste sentido, o novo modelo estruturalista aqui preconizado auxilia a preparação e a composição das posturas dos filósofos divergentes com relação às atribuições conceituais. Baseando-se nos ensinamentos de Dewey, a canalizaçao do Ser do Ente garante a contribuição de um grupo importante na determinação das novas teorias propostas. A prática cotidiana prova que a consolidação das estruturas psico-lógicas não sistematiza essa relação, de tal modo que a pulsão funciona funciona como significado da determinação do Ser enquanto Ser...
-
 
 Execução:
 </p>
